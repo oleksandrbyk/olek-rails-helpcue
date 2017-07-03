@@ -7,8 +7,8 @@
 
 This app requires Ruby 2.4.1 and Postgresql 9.3+ in development and production.
 
-1. `$ git clone git@github.com:aomran/helpcue.git`
-1. `$ cd helpcue`
+1. `$ git clone git@github.com:oleksandrbyk/olek-rails-helpcue.git`
+1. `$ cd olek-rails-helpcue`
 1. `$ bin/setup`
 1. `$ cp .env.example .env` -- Fill out the .env file with the appropriate environment variables.
 
